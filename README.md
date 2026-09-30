@@ -51,9 +51,9 @@ Cada pasta reúne os arquivos e exercícios desenvolvidos durante os estudos.
 * [x] Tipos de dados
 * [x] Operadores
 * [x] Estruturas condicionais
-* [ ] Estruturas de repetição
-* [ ] Funções
-* [ ] Arrays
+* [x] Estruturas de repetição
+* [x] Funções
+* [x] Arrays
 * [ ] Objetos
 * [ ] Manipulação do DOM
 * [ ] Eventos
