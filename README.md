@@ -22,8 +22,6 @@ O foco deste repositório é praticar os fundamentos da linguagem e entender com
 
 ### 📚 Aulas — Rafaella Ballerini
 
-[📁 Acessar aulas](.)
-
 Estudos realizados acompanhando os conteúdos e exemplos apresentados pela **Rafaella Ballerini**.
 
 O repositório está organizado de acordo com as aulas estudadas:
